@@ -3,3 +3,5 @@
 chem_assist：化学元素原子量管理与查询程序
 
 address_book：通讯录管理程序
+
+game2048：一款益智小游戏
